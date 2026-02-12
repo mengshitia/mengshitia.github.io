@@ -1,0 +1,3 @@
+[submodule "themes/hugo-theme-mage"]
+	path = themes/hugo-theme-mage
+	url = https://github.com/mengshitia/hugo-theme-mage.git

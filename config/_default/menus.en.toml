@@ -1,0 +1,12 @@
+[[main]]
+  name = 'About'
+  pageRef = '/about'
+  weight = 999
+[[main]]
+  name = 'Home'
+  pageRef = '/'
+  weight = 1
+[[main]]
+  name = 'Archives'
+  pageRef = '/archives'
+  weight = 2

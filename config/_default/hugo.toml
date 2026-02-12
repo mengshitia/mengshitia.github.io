@@ -1,0 +1,11 @@
+baseURL = '/'
+defaultContentLanguage = 'zh-Hans'
+defaultContentLanguageInSubdir = true
+disableDefaultLanguageRedirect = false
+disableLanguages = []
+title = "梦石's Blog"
+
+theme = 'hugo-theme-mage'
+
+[markup]
+  _merge = 'deep'

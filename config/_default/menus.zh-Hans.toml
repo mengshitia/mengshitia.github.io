@@ -1,0 +1,12 @@
+[[main]]
+  name = '关于'
+  pageRef = '/about'
+  weight = 999
+[[main]]
+  name = '主页'
+  pageRef = '/'
+  weight = 1
+[[main]]
+  name = '归档'
+  pageRef = '/archives'
+  weight = 2
