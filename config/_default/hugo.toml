@@ -10,6 +10,10 @@ theme = 'hugo-theme-mage'
 [markup]
   _merge = 'deep'
 
+[services]
+  [services.rss]
+    limit = 22
+
 # Settings of caches when hosted on GitHub Pages.
 [caches]
   [caches.images]
