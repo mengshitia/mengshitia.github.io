@@ -1,12 +1,12 @@
 [en]
   contentDir = 'content/en'
-  languageCode = 'en'
-  languageName = 'English'
+  locale = 'en'
+  label = 'English'
   weight = 2
 
 [zh-Hans]
   contentDir = 'content/zh-Hans'
   hasCJKLanguage = true
-  languageCode = 'zh-Hans'
-  languageName = '简体中文'
+  locale = 'zh-Hans'
+  label = '简体中文'
   weight = 1
