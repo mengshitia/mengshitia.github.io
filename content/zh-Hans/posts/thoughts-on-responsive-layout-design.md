@@ -8,6 +8,8 @@ categories = ['文章']
 tags = ['博客', '记录', '响应式']
 [build]
   list = 'always'  # Use 'never' to exclude this page from all page collections.
+[params]
+  comments = true  # Set 'true' to enable.
 +++
 
 > 这是一篇记录，不是专业或全面的响应式设计参考文章。

@@ -8,6 +8,8 @@ categories = ['articles']
 tags = ['blog', 'hello world']
 [build]
   list = 'always'  # Use 'never' to exclude this page from all page collections.
+[params]
+  comments = true  # Set 'true' to enable.
 +++
 
 ## A wish

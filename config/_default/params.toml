@@ -1,3 +1,21 @@
 [avatar]
   isRemote = false
   url = 'img/avatar.jpg'
+
+[comments]
+  enabled = true
+  provider = 'giscus'
+
+[giscus]
+  repo = 'mengshitia/mengshitia.github.io'
+  repoID = 'R_kgDOROU0KA'
+  category = 'Announcements'
+  categoryID = 'DIC_kwDOROU0KM4C56eb'
+  mapping = 'pathname'
+  strict = true
+  reactions = true
+  emitMetadata = false
+  inputOnTop = true
+  [giscus.themes]
+    dark = 'catppuccin_frappe'
+    light = 'catppuccin_latte'

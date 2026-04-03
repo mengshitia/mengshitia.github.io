@@ -8,6 +8,8 @@ categories = ['文章']
 tags = ['博客', '你好世界']
 [build]
   list = 'always'  # Use 'never' to exclude this page from all page collections.
+[params]
+  comments = true  # Set 'true' to enable.
 +++
 
 ## 想法

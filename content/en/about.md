@@ -8,6 +8,8 @@ categories = []
 tags = []
 [build]
   list = 'never'  # Use 'never' to exclude this page from all page collections.
+[params]
+  comments = false  # Set 'true' to enable.
 +++
 
 ## About this site

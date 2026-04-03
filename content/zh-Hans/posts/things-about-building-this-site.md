@@ -8,6 +8,8 @@ categories = ['文章']
 tags = ['记录']
 [build]
   list = 'always'  # Use 'never' to exclude this page from all page collections.
+[params]
+  comments = true  # Set 'true' to enable.
 +++
 
 ## 我对 Hugo 主题的理解

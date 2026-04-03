@@ -8,6 +8,8 @@ categories = ['浏览器']
 tags = ['火狐']
 [build]
   list = 'always'  # Use 'never' to exclude this page from all page collections.
+[params]
+  comments = true  # Set 'true' to enable.
 +++
 
 ## 设置方法
