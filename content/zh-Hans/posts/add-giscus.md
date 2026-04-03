@@ -14,7 +14,7 @@ tags = ['giscus']
 
 添加了 Giscus，类似评论功能。
 
-Gisgus 的[介绍和配置说明](https://giscus.app/)。
+Gisgus 的[介绍](https://giscus.app/)。
 
 使用 Gisgus 需要一个 GitHub 账号。
 怎么用呢？点文章标题，进入文章页面，翻到页面底端时就会加载 Gisgus 了。
